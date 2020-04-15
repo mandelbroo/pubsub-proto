@@ -1,0 +1,11 @@
+{
+  "name": "pubsub-proto",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "vitalii makarets",
+  "license": "MIT",
+  "scripts": {
+    "pub": "node pub.js",
+    "sub": "node sub.js"
+  }
+}
